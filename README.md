@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Nesrine , a computer engineering student currently based in Berlin, Germany .
+I design and build whatever I can imagine 
+If a idea pops into my head , chances are I ll build it and ship it . 
+My main tech stack is C/C++ , VHDL design and Python althought I would experiment with any type of coding language since I find them fascinating and built on logic .
+
+Here you can find mostly all my projects (even the experiments) 
+
+Fun fact : 
+I am actually a social butterfly even if I do dissapear for hours and days to build my projects 
+
+
