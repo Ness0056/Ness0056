@@ -24,7 +24,7 @@ My main tech stack is C/C++ , VHDL design and Python althought I would experimen
 
 Here you can find mostly all my projects (even the experiments) 
 
-Fun fact : 
-I am actually a social butterfly even if I do dissapear for hours and days to build my projects 
+✨ Fun fact : 
+++ I am actually a social butterfly even if I do dissapear for hours and days to build my projects 
 
 
